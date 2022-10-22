@@ -1,0 +1,55 @@
+/*nav {  
+
+        background-image:url('../img/taylornav.webp'); 
+        background-repeat:no-repeat;
+        background-attachment:fixed;
+       height:auto;
+	      }*/
+
+* {
+      margin:0; 
+      padding:0;
+      
+    }
+
+
+nav {  
+     
+    background: #E6E6FA url('../img/taylornav.webp') no-repeat fixed
+    }
+
+h1 { 
+    text-align:center; 
+    text-transform:uppercase; 
+    color:#E6E6FA;
+
+
+  }
+
+section{ 
+     background:rgba(184,140,127,0.69);
+      }
+
+
+.lyric { 
+         color :  #c897c9;
+     }
+
+
+/*
+@media (min-width )
+*/
+
+
+/*@media only screen and (max-width: 987px){
+  .navbar-brand{
+    padding-left: 0px;
+  }
+}
+
+@media only screen and (min-width: 768px){
+  #banner-row img{
+    background-repeat:repeat-x;
+    background-attachment:scroll;
+  }
+*/
